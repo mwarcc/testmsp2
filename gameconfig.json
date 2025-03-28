@@ -1,0 +1,43 @@
+{
+    "gameId": "j68d",
+    "appleStoreUrl": "https://itunes.apple.com/app/id1464895545",
+    "androidStoreUrl": "https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.moviestarplanet.msp2",
+    "timeShowingLoadingBarText":"1500",
+    "googleTagManagerId": "GTM-KL8S964",
+    "cacheExpirationTime": "30",
+    "cacheDeleteCount":"500",
+    "safeSeal": {
+        "include": "false"
+    },
+    "getWindows": {
+        "include": "false",
+        "link":""
+    },
+    "getAppStore": {
+        "include": "true",
+        "link":"https://itunes.apple.com/app/id1464895545"
+    },
+    "getPlayStore": {
+        "include": "true",
+        "link":"https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.moviestarplanet.msp2"
+    },
+	"cookieScriptId": {
+		"us":"7bb6f7107ab6d2b79096b230cc6d675d",
+		"ca":"9f4c3d3cca71338727f694c06477c06a",
+		"gb":"087e099adedb619aaf8f5f4ac118443a",
+		"nl":"54332d256f2ab78daae1e372578aeb31",
+		"ie":"9d16e40581ae521273b8cd614d9e61ae",
+		"dk":"aa095c94b1d3c7b9976cff32f2eab0e4",
+		"fr":"228d2b651c206b47bbe8ff730a573d1f",
+		"pl":"779b4295b5250a125bdb02d43e7c8563",
+		"se":"4c665e32233c86c761845f094dce52a5",
+		"no":"133a98216eed90d3541d9ca9e28d20ed",
+		"fi":"faa59d0e0a05d3c205bcc4be022446fa",
+		"tr":"36dd711e405ac2e004389f18023cd847",
+		"es":"95b44095d20ac8b1111cd5d884d55200",
+		"de":"4d47f37be6e93320d5ca363a67df8f5a",
+		"au":"7e45a67733f55880e113acc0d270d830",
+		"nz":"a4623871e7b8c65f33462fce8787d086"
+	}
+	
+}
